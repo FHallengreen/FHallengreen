@@ -2,7 +2,8 @@
 
 Time used on Poelleskyen: <a href="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc"><img src="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc.svg" alt="wakatime"></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/cd998316-4287-4dab-9800-8ceb84ee923e.png" /></a>
+Languages used since September 2022
+<figure><embed src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/46eb56a4-89a2-4ff3-8996-09541ada0ed3.svg"></embed></figure>
 
 ![](https://komarev.com/ghpvc/?FHallengreen&color=green)
 

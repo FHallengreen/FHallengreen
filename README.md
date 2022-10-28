@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Below tracking enabled from September 2022.
+Below tracking enabled September 2022.
 
 Time used on Poelleskyen: <a href="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc"><img src="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc.svg" alt="wakatime"></a>
 

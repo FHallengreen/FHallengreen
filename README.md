@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+<a href="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc"><img src="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc.svg" alt="wakatime"></a>
+
 ![](https://komarev.com/ghpvc/?FHallengreen&color=green)
+
 
 <!--
 **FHallengreen/FHallengreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

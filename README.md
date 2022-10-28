@@ -2,7 +2,7 @@
 
 Below tracking enabled September 2022.
 
-Time used on Poelleskyen: <a href="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc"><img src="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc.svg" alt="wakatime"></a>
+Time used on <a href="https://github.com/JWillumsen89/polleskyen">Poelleskyen:</a> <a href="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc"><img src="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc.svg" alt="wakatime"></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/f854a29e-5adb-446c-bc59-44245dbf1a89.png" /></a>
 

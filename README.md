@@ -9,7 +9,7 @@ Time used on Bilabonnement <img src="https://wakatime.com/badge/user/1b1008da-b2
 <img src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/c27e7ff0-b8e2-4a08-ba1b-fa4d22b5f445.png" style="height: 500px; width: 700px"/>
 
 
-<img src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/86d6ea20-9f0d-4395-b69f-04060a4698c3.png" />
+<img src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/86d6ea20-9f0d-4395-b69f-04060a4698c3.png" style="height: 300px; width: 500px" />
 
 
 ![](https://komarev.com/ghpvc/?FHallengreen&color=green)

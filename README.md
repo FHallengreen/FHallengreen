@@ -15,5 +15,3 @@ Last updated: 08/12-2022
 
 
 ![](https://komarev.com/ghpvc/?FHallengreen&color=green)
-
-<figure><embed src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/377a5c5a-ffee-447a-a48f-c97dbd5a8cc7.svg"></embed></figure>

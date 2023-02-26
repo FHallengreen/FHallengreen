@@ -1,17 +1,15 @@
-### Hi there 👋
 
-Below tracking enabled September 2022.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frederik-hallengreen-hansen-961a7262) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FHansen21H) 
 
-Time used on poelleskyen <img src="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6251ffde-b3cb-4f4b-acd8-855cc11be4bc.svg" alt="wakatime">
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FHallengreen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FHallengreen&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FHallengreen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Time used on Bilabonnement <img src="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9/project/6c91d3b6-3845-45ca-908c-6c5edbaf34c5.svg" alt="wakatime">
+---
+[![](https://visitcount.itsvg.in/api?id=FHallengreen&icon=2&color=8)](https://visitcount.itsvg.in)
 
-Last updated: 08/12-2022
-
-<img src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/c27e7ff0-b8e2-4a08-ba1b-fa4d22b5f445.png" style="height: 500px; width: 700px"/>
-
-
-<img src="https://wakatime.com/share/@1b1008da-b222-4921-80cc-f0f769f207a9/86d6ea20-9f0d-4395-b69f-04060a4698c3.png" style="height: 300px; width: 500px" />
-
-
-![](https://komarev.com/ghpvc/?FHallengreen&color=green)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

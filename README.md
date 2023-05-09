@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=FHallengreen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FHallengreen&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FHallengreen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<img src="https://wakatime.com/badge/user/1b1008da-b222-4921-80cc-f0f769f207a9.svg" alt="Total time coded since Sep 29 2022" />
 ---
 [![](https://visitcount.itsvg.in/api?id=FHallengreen&icon=2&color=8)](https://fhallengreen.com)
 
